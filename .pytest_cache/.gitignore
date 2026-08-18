@@ -1,38 +1,9 @@
-# Python
 __pycache__/
 *.py[cod]
-*.pyo
-.venv/
-venv/
-env/
+.pytest_cache/
 
-# Environment variables
 .env
-.env.*
-!.env.example
-
-# IDE
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Database
 *.db
 *.sqlite3
 
-# Testing
-.pytest_cache/
-.coverage
-
-# Node
-node_modules/
-
-# Build
-dist/
-build/
+uploads/
